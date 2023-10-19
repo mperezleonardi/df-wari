@@ -1,0 +1,9 @@
+{
+	"name": "df-wari",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "159fd066-0dca-42e6-9131-7e555bf8069c",
+		"tenantId": "677ddce8-9ed9-4df6-9853-156f03d6a258"
+	}
+}
