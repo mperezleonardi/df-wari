@@ -1,0 +1,9 @@
+{
+	"name": "adf-wari",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ada9e457-b6dd-4b5c-8a5c-cfc845e3d9a3",
+		"tenantId": "677ddce8-9ed9-4df6-9853-156f03d6a258"
+	}
+}
