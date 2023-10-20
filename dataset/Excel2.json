@@ -1,0 +1,19 @@
+{
+	"name": "Excel2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage3",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "prueba.xlsx",
+				"fileSystem": "excels"
+			}
+		},
+		"schema": []
+	}
+}
