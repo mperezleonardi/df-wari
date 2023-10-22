@@ -47,13 +47,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "Excel21",
+						"referenceName": "Excel2",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText11",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					}
 				]
