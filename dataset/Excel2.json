@@ -1,10 +1,13 @@
 {
 	"name": "Excel2",
 	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureDataLakeStorage1",
+			"type": "LinkedServiceReference"
+		},
 		"annotations": [],
 		"type": "Excel",
 		"typeProperties": {
-			"sheetName": "Hoja1",
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "prueba.xlsx",
